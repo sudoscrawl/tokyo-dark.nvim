@@ -21,6 +21,7 @@ function M.load()
 
   local palette = require("tokyo-dark.palette")
   require("tokyo-dark.treesitter").set(palette)
+  require("tokyo-dark.lsp").set(palette)
 end
 
 return M
