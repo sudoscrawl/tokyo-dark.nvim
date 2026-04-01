@@ -18,6 +18,9 @@ function M.load()
   vim.g.colors_name = "tokyo-dark"
 
   require("tokyo-dark.highlights").setup(M.config)
+
+  local palette = require("tokyo-dark.palette")
+  require("tokyo-dark.treesitter").set(palette)
 end
 
 return M
