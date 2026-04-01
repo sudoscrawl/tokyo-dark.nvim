@@ -1,5 +1,7 @@
 # tokyo-dark.nvim
 
+![tokyo-dark.nvim](static/bnnr.jpg)
+
 A Neovim colorscheme plugin ported from VS Code Tokyo Night Dark theme.
 
 ## Installation
@@ -23,10 +25,10 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ## Configuration
 
-| Option | Type | Default | Description |
-| --- | --- | --- | --- |
-| `transparent` | `boolean` | `false` | Enable/disable transparent background |
-| `italic_comments` | `boolean` | `true` | Enable/disable italic comments |
+| Option            | Type      | Default | Description                           |
+| ----------------- | --------- | ------- | ------------------------------------- |
+| `transparent`     | `boolean` | `false` | Enable/disable transparent background |
+| `italic_comments` | `boolean` | `true`  | Enable/disable italic comments        |
 
 ## Usage
 
@@ -39,3 +41,8 @@ Or in Lua:
 ```lua
 vim.cmd("colorscheme tokyo-dark")
 ```
+
+## Credits
+
+- https://github.com/drewxs/tokyo-night-dark
+- https://github.com/drewxs/tokyo-night-dark
