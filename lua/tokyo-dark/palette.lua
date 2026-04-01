@@ -18,6 +18,7 @@ local palette = {
   magenta = "#bb9af7",
   magenta2 = "#ff007c",
   orange = "#ff9e64",
+  orange2 = "#e0687a", -- Added for parameters/arguments
   yellow = "#e0af68",
   green = "#9ece6a",
   green1 = "#73daca",

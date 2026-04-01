@@ -86,7 +86,7 @@ function M.setup(config)
     ["@string"] = { fg = cp.green1 },
     ["@type"] = { fg = cp.blue2 },
     ["@constant"] = { fg = cp.orange },
-    ["@parameter"] = { fg = cp.fg },
+    ["@parameter"] = { fg = cp.orange2 }, -- Fixed: applied reddish-orange
     ["@field"] = { fg = cp.green1 },
     ["@property"] = { fg = cp.green1 },
     ["@constructor"] = { fg = cp.blue2 },
