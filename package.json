@@ -1,0 +1,22 @@
+{
+  "name": "tokyo-night-dark",
+  "version": "1.0.0",
+  "description": "![tokyo-dark.nvim](static/bnnr.jpg)",
+  "homepage": "https://github.com/sudoscrawl/tokyo-dark.nvim#readme",
+  "bugs": {
+    "url": "https://github.com/sudoscrawl/tokyo-dark.nvim/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudoscrawl/tokyo-dark.nvim.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "prettier": "prettier"
+  },
+  "devDependencies": {
+    "@prettier/plugin-lua": "^0.0.3",
+    "prettier": "^3.8.1"
+  }
+}
