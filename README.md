@@ -45,4 +45,3 @@ vim.cmd("colorscheme tokyo-dark")
 ## Credits
 
 - https://github.com/drewxs/tokyo-night-dark
-- https://github.com/drewxs/tokyo-night-dark
